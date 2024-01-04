@@ -10,7 +10,7 @@ My favorite code quote, "<span id="skills">Experience is the name everyone gives
 <strong>Technical Skills:<strong> <p id="skills">Data Science | Data Analytics | Data Structures and Algorithms | Machine Learning | Deep Learning | Data Preprocessing | Git<p>
 <strong>Other Skills:<strong> <p id="skills">Problem Solving | Technical Content Writing | Team Work | Versatility
 
-<p>Feel Free to Content on<a href="https://www.linkedin.com/in/nak5hatra/" target="_blank"> Linkedin</a>.<br>
+<p>Feel free to connect on<a href="https://www.linkedin.com/in/nak5hatra/" target="_blank"> Linkedin</a>.<br>
 Check out my <a href="https://www.github.com/nak5hatra/" target="_blank">GitHub</a>.<br>
 E-mail me at<a href="mailto:nakshatrasharma786@gmail.com" target="_blank"> nakshatrasharma786@gmail.com.</a><br>
 Download my <a href="https://drive.google.com/file/d/1CRnoyK0vNPxqM3ACeJFz5Xd3oeH8Spn8/view?usp=drive_link" target="_blank"> resume</a>.<br>
