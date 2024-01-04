@@ -1,0 +1,19 @@
+
+<span id="a">code@nakshatra</span>:<span id="b">~</span><span id="c">$</span> cd Nakshatra/<!-- kjsdfhkjdhsfkjdshfkj -->about_me
+<span id="a">code@nakshatra</span>:<span id="b">~</span><span id="c">$</span> pyhton <!-- kjsdfhkjdhsfkjdshfkj -->nakshatra.py<br/><br/>
+<h1>Name: <span id="skills">NAKSHATRA SHARMA</span></h1>
+My favorite code quote, "<span id="skills">Experience is the name everyone gives to their mistakes</span>". <!-- sjkfhskjf -->
+
+ <p>I'm Nakshatra, a spirited Computer Science and Engineering student on a mission to turn the tech world into my own adventure zone. 🌟<br>
+ I'm an Aspiring data scientist and software developer, blending data enchantment with code wizardry to create innovative solutions in the ever-evolving tech landscape.
+ <p><strong><p style="font-size:40px">Skills:</p></strong><strong>Languages and Tools:<strong> <p id="skills">Python | Core Java | JavaScript | HTML/CSS | SQL | Power BI | Excel | Jupyter Notebook | CLI<p>
+<strong>Technical Skills:<strong> <p id="skills">Data Science | Data Analytics | Data Structures and Algorithms | Machine Learning | Deep Learning | Data Preprocessing | Git<p>
+<strong>Other Skills:<strong> <p id="skills">Problem Solving | Technical Content Writing | Team Work | Versatility
+
+<p>Feel Free to Content on<a href="https://www.linkedin.com/in/nak5hatra/" target="_blank"> Linkedin</a>.<br>
+Check out my <a href="https://www.github.com/nak5hatra/" target="_blank">GitHub</a>.<br>
+E-mail me at<a href="mailto:nakshatrasharma786@gmail.com" target="_blank"> nakshatrasharma786@gmail.com.</a><br>
+Download my <a href="https://drive.google.com/file/d/1CRnoyK0vNPxqM3ACeJFz5Xd3oeH8Spn8/view?usp=drive_link" target="_blank"> resume</a>.<br>
+Cheers!
+</p>
+</p>
